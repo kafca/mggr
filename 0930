@@ -1,0 +1,38 @@
+Git 
+
+mkdir =
+echo 'folder' > 'file'
+
+skeleton
+git init
+track & staged
+: git add
+
+commit 
+:git commit 
+cf. 
+-a ; omit add
+-m ; message
+-v ; difference
+
+git rm
+-- cached ''
+\*~
+
+
+
+vim editor
+esc + :q  (quit)
+    + :wq (save,quit) 
+    + :q! (no-save,quit)
+    
+
+git remote add origin {"http://~"}
+git push origin {"branch name"}
+
+git checkout -b feature_x
+git checkout master
+git branch -d feature_x
+
+
+git add
