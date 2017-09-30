@@ -5,21 +5,21 @@ echo 'folder' > 'file'
 
 skeleton
 git init
+
 track & staged
 : git add
 
 commit 
 :git commit 
+
 cf. 
--a ; omit add
 -m ; message
+-a ; omit add
 -v ; difference
 
 git rm
 -- cached ''
 \*~
-
-
 
 vim editor
 esc + :q  (quit)
