@@ -1,15 +1,16 @@
 Git 
 
+1) make room for github files
 mkdir =
 echo 'folder' > 'file'
 
-skeleton
+2) make skeleton
 git init
 
-track & staged
+3) track & staged
 : git add
 
-commit 
+4) commit 
 :git commit 
 
 cf. 
@@ -17,11 +18,11 @@ cf.
 -a ; omit add
 -v ; difference
 
-git rm
+5) git rm
 -- cached ''
 \*~
 
-vim editor
+6) vim editor
 esc + :q  (quit)
     + :wq (save,quit) 
     + :q! (no-save,quit)
